@@ -135,8 +135,8 @@ The interactive dashboard includes:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusernam](https://github.com/Yashaswini-Yashu7)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
